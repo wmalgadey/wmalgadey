@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wmalgadey
 - 👀 I’m interested in volleyball, kiten, wakeboarden, dev-things
-- 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on nothing actually
+- 🌱 I’m always learning to live the best
+- 💞️ I’m not looking to collaborate on anything actually
 
 <!---
 wmalgadey/wmalgadey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
