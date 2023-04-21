@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wmalgadey
-- 👀 I’m interested in volleyball, kiten, wakeboarden, dev-things
-- 🌱 I’m always learning to live the best
+- 👀 I’m interested in volleyball, kiten, wakeboarden, coding
+- 🌱 I’m always learning to live to the best
 - 💞️ I’m not looking to collaborate on anything actually
 
 <!---
